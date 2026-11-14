@@ -1,6 +1,8 @@
 # Pasiphae-Launch-Systems
 Ariane 6 parts pack for KSP
 
+Thank you to Bob Kerman Industries for the Vinci model.
+
 
 Dependencies;
 
