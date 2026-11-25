@@ -5,6 +5,8 @@ Thank you to Bob Kerman Industries for the Vinci model.
 
 Thank you to Zarbon44 for logos.
 
+Thanks to mountainparrot for VABO support.
+
 Join the discord here for a roadmap, community chat, and frequent updates: https://discord.gg/eFTgVwzUne
 
 .
