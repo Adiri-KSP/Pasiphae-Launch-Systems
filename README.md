@@ -1,15 +1,13 @@
 # Pasiphae-Launch-Systems
 Ariane 6 parts pack for KSP
 
-Thank you to Bob Kerman Industries for the Vinci model.
-
-Thank you to Zarbon44 for logos.
-
 Join the discord here for a roadmap, community chat, and frequent updates: https://discord.gg/eFTgVwzUne
 
-.
+If you are confused by anything, please check the Wiki: https://github.com/Adiri-KSP/Pasiphae-Launch-Systems/wiki
 
-Dependencies;
+
+
+# Dependencies;
 
 -Module Manager
 
@@ -19,6 +17,16 @@ Dependencies;
 
 -Community Resource Pack
 
--Resurfaced*
+# Recommended Mods;
 
-*Resurfaced is not a hard dependency of the mod but is greatly encouraged as the parts were designed with PBR shaders in mind.
+-Resurfaced (The parts were designed with PBR in mind)
+
+-KJR
+
+-Deferred
+
+-CryoTanks
+
+.
+
+Thanks to Bob Kerman Industries, Zarbon44, MountainParrot
